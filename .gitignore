@@ -1,0 +1,5 @@
+# IDEs
+/.vs/
+/packages
+/SecondAuth/bin/
+/SecondAuth/obj/
